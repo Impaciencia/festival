@@ -9,12 +9,13 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro);
 /* var text-decoration */
 /*--
 	Common Css
 --*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   background-color: #2b2929;
   -webkit-font-smoothing: antialiased;
 }
@@ -24,7 +25,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #fff;
 }
 h2 {
   font-size: 30px;
@@ -142,7 +144,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -161,6 +163,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
+  background-color: #edf517;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -168,7 +171,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #fff;
   padding-top: 20px;
 }
 #intro .block img {
@@ -187,6 +190,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
+  background-color: #1ff7ab;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -253,7 +257,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/featue-bg.gif");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -280,7 +284,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #fff;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
