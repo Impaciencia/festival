@@ -152,7 +152,8 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 10px;
   padding-bottom: 45px;
   color: #fff;
-  background-color: #333;
+  background-color: rgb(0,0,0, 0.7);
+  padding: 18px;
 }
 #slider .block p {
   font-size: 23px;
@@ -161,7 +162,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
   color: #fff;
-  background-color: #333;
+  background-color: rgb(0,0,0, 0.7);
+  padding: 18px;
 }
 /*--
 	wrapper Start
