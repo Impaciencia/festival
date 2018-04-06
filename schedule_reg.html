@@ -32,7 +32,7 @@ permalink: /schedule_reg/
                 <tbody>
                 {% for actividad in site.data.actividades %}
                         <tr>
-                            <td><img src="{{ actividad.foto }}" width="100" height="100"></td>
+                            <td><img src="{{ actividad.foto }}" style="width:100px !important;"></td>
                             <td>{{ actividad.titulo }}</br>{{ actividad.descripcion }}</td>
                         </tr>
                 {% endfor %}
