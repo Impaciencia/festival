@@ -29,11 +29,12 @@ permalink: /schedule_reg/
           </div>
             
             
-            <div class="col-md-12">
-                prueba
-                <div class="col-md-4">1</div><div class="col-md-8">2</div>
-            </div>
-            
+            {{ for actividad in site.data.actividades }}
+                <div class="col-md-12">
+                    actividad.titulo
+                    <div class="col-md-4">1</div><div class="col-md-8">2</div>
+                </div>
+            {{ endfor }}
             
         </div>
     </div>
