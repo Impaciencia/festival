@@ -33,7 +33,14 @@ permalink: /schedule_reg/
                 {% for actividad in site.data.actividades %}
                         <tr>
                             <td><img src="{{ actividad.foto }}" style="width:100px !important;"></td>
-                            <td>{{ actividad.titulo }}</br>{{ actividad.descripcion }}</td>
+                            <td><b>Actividad</b><br>{{ actividad.titulo }}</td>
+                            <td><b>Lugar</b><br>{{ actividad.lugar }}</td>
+                            <td><b>Hora</b><br>{{ actividad.fecha_inicio }}-{{actividad.fecha_final}}</td>
+                            <td><b>Descripción</b></br>{{ actividad.descripcion }}</td>
+                            <td><b>Registrarse</b></br><a href="{{ actividad.link }}"/>Registrarse!</a></td>
+                        </tr>
+                        <tr>
+                            <td colspan="6"><i>{{ actividad.keywords }}</i></td>
                         </tr>
                 {% endfor %}
                 </tbody>
