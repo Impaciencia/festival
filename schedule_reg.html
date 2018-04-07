@@ -38,11 +38,8 @@ permalink: /schedule_reg/
         <div class="block">
           <div class="section-title">
             <h2>Registro en actividades</h2>
-            <p>Aquí puedes apuntarte en toda actividad que a tu cuerpo le parezca chachi</b> </p>
+            <p style="color: #eee;">Aquí puedes apuntarte en toda actividad que a tu cuerpo le plazca</b> </p>
           </div>
-
-
-
 
 
     <div id="searchbox">
@@ -55,113 +52,47 @@ permalink: /schedule_reg/
 
     <div class="list">
 
+      {% for actividad in site.data.actividades %}
+
       <div class="container">
 
         <div class="row palabras_clave">
           <div class="col-md-12 titulo">
-            <h3>Taller de electrofisiología</h3>
+            <h3>{{actividad.titulo}}</h3>
           </div>
         </div>
 
         <div class="row">
           <div class="col-md-3">
-            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
+            <img src="{{actividad.foto}}" class="img_actividad">
           </div>
           <div class="col-md-7 desc_actividad">
             <p><b>Hora comienzo: </b>
-              <span class="hora_inicio">13:00pm</span><br>
+              <span class="hora_inicio">{{actividad.hora_inicio}}</span><br>
               <b>Hora final: </b>
-              <span class="hora_inicio">15:00pm</span>
+              <span class="hora_inicio">{{actividad.hora_final}}</span><br>
+              <b>Lugar: </b>
+              <span>{{ actividad.lugar }}</span>
             </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>{{actividad.descripcion}}</p>
           </div>
           <div class="col-md-2">
-            <p align="right"><a href="javascript:void(0);">Rehístrate!</a></p>
+            <p align="right"><a href="{{actividad.link}}">Rehístrate!</a></p>
           </div>
         </div>
 
 
         <div class="row">
           <div class="col-md-12 palabras_clave">
-            <p align="right"><i>taller, electrofisiología, investigación</i><br>
-            <span class="categoria">Talleres</span></p>
+            <p align="right"><i>{{actividad.keywords}}</i><br>
+            <span class="categoria">{{actividad.categoria}}</span></p>
           </div>
         </div>
       </div>
 
 
-      <div class="container">
+      {% endfor %}
 
-        <div class="row">
-          <div class="col-md-12 titulo">
-            <h3>Charla sobre caos molecular</h3>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-3">
-            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
-          </div>
-          <div class="col-md-7 desc_actividad">
-            <p><b>Hora comienzo: </b>
-              <span class="hora_inicio">17:00pm</span><br>
-              <b>Hora final: </b>
-              <span class="hora_inicio">18:00pm</span>
-            </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-          <div class="col-md-2">
-            <p align="right"><a href="javascript:void(0);">Rehístrate!</a></p>
-          </div>
-        </div>
-
-
-        <div class="row">
-          <div class="col-md-12 palabras_clave">
-            <p align="right"><i>taller, electrofisiología, investigación</i><br>
-            <span class="categoria">Talleres</span></p>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-12 titulo">
-            <h3>Cómo convertir a tu perro en un Kato</h3>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-3">
-            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
-          </div>
-          <div class="col-md-7 desc_actividad">
-            <p><b>Hora comienzo: </b>
-              <span class="hora_inicio">15:00pm</span><br>
-              <b>Hora final: </b>
-              <span class="hora_inicio">16:00pm</span>
-            </p>
-            <p>Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>¿Por qué no transformarlo todo en mascotas?</p>
-          </div>
-          <div class="col-md-2">
-            <p align="right"><a href="javascript:void(0);">Rehístrate!</a></p>
-          </div>
-        </div>
-
-
-        <div class="row">
-          <div class="col-md-12 palabras_clave">
-            <p align="right"><i>taller, electrofisiología, investigación</i><br>
-            <span class="categoria">Charlas</span></p>
-          </div>
-        </div>
-      </div>
     </div>
   </section>
 
