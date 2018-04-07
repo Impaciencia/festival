@@ -1,27 +1,27 @@
 - titulo: Taller de electrofisiología
   descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   foto: https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1
-  hora_inicio: 12:00
-  hora_final: 13:00
+  hora_inicio: 12:00pm
+  hora_final: 13:00pm
   lugar: El contenedor cultural
   categoria: Cacharreo
   keywords: taller, electrofisiología, investigación, cacharreo
   link: http://google.es
-- titulo: prueba
-  descripcion: Charla sobre caos molecular
+- titulo: Charla sobre caos molecular
+  descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   foto: /festival/img/contenedor_cultural.png
-  hora_inicio: 12:00
-  hora_final: 13:00
-  lugar: EL contenedor cultural
-  categoria: Talleres
-  keywords: taller, electrofisiología, investigación
+  hora_inicio: 12:00pm
+  hora_final: 13:00pm
+  lugar: El contenedor cultural
+  categoria: Charlas
+  keywords: taller, caos molecular
   link: http://google.es
-- titulo: Cómo convertir a tu perro en un Kato
+- titulo: Cómo convertir tu raspberry en tu perro
   descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
   foto: /festival/img/contenedor_cultural.png
-  hora_inicio: 15:00
-  hora_final: 16:00
-  lugar: EL contenedor cultural
+  hora_inicio: 15:00pm
+  hora_final: 16:00pm
+  lugar: El contenedor cultural
   categoria: Charlas
   keywords: taller, electrofisiología, investigación
   link: http://google.es
