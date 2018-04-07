@@ -253,6 +253,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 15px;
   background-color: #555;
   border-radius: 5px;
+  padding-bottom: 15px;
 }
 
 #container_actividades a {
