@@ -18,43 +18,166 @@ permalink: /schedule_reg/
     </div>
 </section>
 
-<section id="intro">
+
+
+	<script>
+		$(document).ready(function() {
+		  var options = {
+		    valueNames: [ 'titulo', 'desc_actividad', 'palabras_clave', 'categoria', 'hora_inicio' ]
+		  };
+
+		  var lista_actividades = new List('container_actividades', options);
+		} );
+	</script>
+
+
+  <section id="container_actividades">
   <div class="container">
     <div class="row">
 
         <div class="block">
           <div class="section-title">
-            <h2>Actividades detalladas</h2>
-            <p>Esta programación está sujeta aún a cambios, la iremos actualizando en los siguientes días :). <b>La entrada al festival será libre y gratuita</b>, no obstante para acceder a los talleres tendrás que registrarte en las actividades a través de esta página web. <b>Pero espera un poco impaciente, abriremos los formularios el 15 de abril a las 9:00</b> </p>
+            <h2>Registro en actividades</h2>
+            <p>Aquí puedes apuntarte en toda actividad que a tu cuerpo le parezca chachi</b> </p>
           </div>
-            
-            <table id="tabla_programacion">
-                <tbody>
-                {% for actividad in site.data.actividades %}
-                        <tr>
-                            <td><img src="{{ actividad.foto }}" style="width:100px !important;"></td>
-                            <td><b>Actividad</b><br>{{ actividad.titulo }}</td>
-                            <td><b>Lugar</b><br>{{ actividad.lugar }}</td>
-                            <td><b>Hora</b><br>{{ actividad.fecha_inicio }}-{{actividad.fecha_final}}</td>
-                            <td><b>Descripción</b></br>{{ actividad.descripcion }}</td>
-                            <td><b>Registrarse</b></br><a href="{{ actividad.link }}"/>Registrarse!</a></td>
-                        </tr>
-                        <tr>
-                            <td colspan="6"><i>{{ actividad.keywords }}</i></td>
-                        </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-      
-      <script type="text/javascript">
-          $(document).ready(function() {
-                $('#tabla_programacion').DataTable();
-            } );
-      </script>
+
+
+
+
+
+    <div id="searchbox">
+      Buscar: <input class="search" placeholder="Search" /></br>
+      <a href="#" class="sort" data-sort="hora_inicio">Ordenar por hora</a></br>
+      <a href="#" class="sort" data-sort="categoria">Ordenar por categoría</a>
+    </div>
+
+    <div style="clear:both"></div>
+
+    <div class="list">
+
+      <div class="container">
+
+        <div class="row palabras_clave">
+          <div class="col-md-12 titulo">
+            <h3>Taller de electrofisiología</h3>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-3">
+            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
+          </div>
+          <div class="col-md-7 desc_actividad">
+            <p><b>Hora comienzo: </b>
+              <span class="hora_inicio">13:00pm</span><br>
+              <b>Hora final: </b>
+              <span class="hora_inicio">15:00pm</span>
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+          <div class="col-md-2">
+            <p align="right"><a href="#">Rehístrate!</a></p>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-12 palabras_clave">
+            <p align="right"><i>taller, electrofisiología, investigación</i><br>
+            <span class="categoria">Talleres</span></p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12 titulo">
+            <h3>Charla sobre caos molecular</h3>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-3">
+            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
+          </div>
+          <div class="col-md-7 desc_actividad">
+            <p><b>Hora comienzo: </b>
+              <span class="hora_inicio">17:00pm</span><br>
+              <b>Hora final: </b>
+              <span class="hora_inicio">18:00pm</span>
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+          <div class="col-md-2">
+            <p align="right"><a href="#">Rehístrate!</a></p>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-12 palabras_clave">
+            <p align="right"><i>taller, electrofisiología, investigación</i><br>
+            <span class="categoria">Talleres</span></p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12 titulo">
+            <h3>Cómo convertir a tu perro en un Kato</h3>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-3">
+            <img src="https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1" class="img_actividad">
+          </div>
+          <div class="col-md-7 desc_actividad">
+            <p><b>Hora comienzo: </b>
+              <span class="hora_inicio">15:00pm</span><br>
+              <b>Hora final: </b>
+              <span class="hora_inicio">16:00pm</span>
+            </p>
+            <p>Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>¿Por qué no transformarlo todo en mascotas?</p>
+          </div>
+          <div class="col-md-2">
+            <p align="right"><a href="#">Rehístrate!</a></p>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-12 palabras_clave">
+            <p align="right"><i>taller, electrofisiología, investigación</i><br>
+            <span class="categoria">Charlas</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+	
             
         </div>
     </div>
   </div>
+
+</div>
+</div>
 </section>
 
 
