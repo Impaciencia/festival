@@ -75,32 +75,37 @@ permalink: /schedule_reg/
           </div>
         </div>
 
+
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-2">
             <img src="{{actividad.foto}}" class="img_actividad">
           </div>
-          <div class="col-md-7 desc_actividad">
-            <p><b>Hora comienzo: </b>
-              <span class="hora_inicio">{{actividad.hora_inicio}}</span><br>
-              <b>Hora final: </b>
-              <span class="hora_inicio">{{actividad.hora_final}}</span><br>
-              <b>Lugar: </b>
-              <span>{{ actividad.lugar }}</span>
-            </p>
+
+
+          <div class="col-md-2">
+            <p>
+            <b>Categoría:</b> <span class="categoria">{{actividad.categoria}}</span></br>
+            <b>Palabras clave:</b> <br><i>{{actividad.keywords}}</i></p>
+          </div>
+
+          <div class="col-md-5 desc_actividad">
             <p>{{actividad.descripcion}}</p>
           </div>
-          <div class="col-md-2">
-            <p align="right"><a href="{{actividad.link}}" class="link_reg">Rehístrate!</a></p>
+
+          <div class="col-md-2 desc_actividad">
+            <p><b>Inicio: </b>
+              <span class="hora_inicio">{{actividad.hora_inicio}}</span><br>
+              <b>Fin: </b>
+              <span class="hora_inicio">{{actividad.hora_final}}</span>
+            </p>
+          </div>
+
+          <div class="col-md-1">
+            <p align="right"><a href="#">Rehístrate!</a></br></p>
           </div>
         </div>
 
 
-        <div class="row">
-          <div class="col-md-12 palabras_clave">
-            <p align="right"><i>{{actividad.keywords}}</i><br>
-            <span class="categoria">{{actividad.categoria}}</span></p>
-          </div>
-        </div>
       </div>
 
 
