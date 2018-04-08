@@ -21,26 +21,26 @@ permalink: /schedule_reg/
 
 
 	<script>
-		$(document).ready(function() {
-		  var options = {
-		    valueNames: [ 'titulo', 'desc_actividad', 'palabras_clave', 'categoria', 'hora_inicio' ]
-		  };
+	$(document).ready(function() {
+	  var options = {
+	    valueNames: [ 'titulo', 'desc_actividad', 'palabras_clave', 'categoria', 'hora_inicio' ]
+	  };
 
-		  var lista_actividades = new List('container_actividades', options);
+	  var lista_actividades = new List('container_actividades', options);
 
-      $('.search').on('keyup', function(event) {
+	      $('.search').on('keyup', function(event) {
 
-      if($('.list').children().length === 0) {
+	      if($('.list').children().length === 0) {
 
-        $('.not-found').css('display', 'block');
+		$('.not-found').css('display', 'block');
 
-      } else {
+	      } else {
 
-        $('.not-found').css('display', 'none');
+		$('.not-found').css('display', 'none');
 
-      }
-    });
-		} );
+	      }
+	    });
+	} );
 	</script>
 
 
@@ -103,7 +103,7 @@ permalink: /schedule_reg/
           </div>
 
           <div class="col-md-2">
-            <p align="right"><a href="#" class="link_reg">Rehístrate!</a></br></p>
+            <p align="center"><a href="#" class="link_reg">Rehístrate!</a></br></p>
           </div>
         </div>
 
