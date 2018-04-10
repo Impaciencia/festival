@@ -494,8 +494,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
   text-align: center;
+}
+@media(min-width:768px){
+  #global-header .block {
+    padding-left: 90px;  /* JFK: Básicamente esto rompía el ancho de la página en móviles */
+  }
 }
 #global-header .block h1 {
   font-weight: 100;
