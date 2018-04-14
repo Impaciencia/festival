@@ -1,27 +1,78 @@
-- titulo: Taller de electrofisiología
+- titulo: Taller: Construye tu propio instrumento de investigación con Arduino
   descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   foto: https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1
-  hora_inicio: 12:00pm
+  hora_inicio: 11:00pm
   hora_final: 13:00pm
-  lugar: El contenedor cultural
-  categoria: Cacharreo
-  keywords: taller, electrofisiología, investigación, cacharreo
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Taller
+  keywords: taller, Arduino, Raspberry pi, cacharreo
   link: http://google.es
-- titulo: Charla sobre caos molecular
+- titulo: A través del tiempo
   descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   foto: /festival/img/contenedor_cultural.png
-  hora_inicio: 12:00pm
-  hora_final: 13:00pm
-  lugar: El contenedor cultural
-  categoria: Charlas
-  keywords: taller, caos molecular
+  hora_inicio: 14:30pm
+  hora_final: 15:00pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Cortometraje
+  keywords: Cortometraje, Impaciencia,
   link: http://google.es
-- titulo: Cómo convertir tu raspberry en tu perro
+
+- titulo: Paleoantropología 2.0
   descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
   foto: /festival/img/contenedor_cultural.png
   hora_inicio: 15:00pm
-  hora_final: 16:00pm
-  lugar: El contenedor cultural
-  categoria: Charlas
-  keywords: taller, electrofisiología, investigación
+  hora_final: 15:50pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Charla
+  keywords: paleoantropología,
+  link: http://google.es
+
+- titulo: Uso de Python en ciencia
+  descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
+  foto: /festival/img/contenedor_cultural.png
+  hora_inicio: 16:00pm
+  hora_final: 16:50pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Charla
+  keywords: python, pybonacci, ciencia, computación
+  link: http://google.es
+
+- titulo: DIYBio : El nacimiento de una nueva revolución tecnológica
+  descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
+  foto: /festival/img/contenedor_cultural.png
+  hora_inicio: 17:00pm
+  hora_final: 17:50pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Charla
+  keywords: DIYBio, biohacking, genética
+  link: http://google.es
+
+- titulo: Un espacio de Creación Digital. Un fablab
+  descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
+  foto: /festival/img/contenedor_cultural.png
+  hora_inicio: 18:00pm
+  hora_final: 18:50pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Charla
+  keywords: fablab, maker, US
+  link: http://google.es
+
+- titulo: De tu garage a la Nasa por la via Maker
+  descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
+  foto: /festival/img/contenedor_cultural.png
+  hora_inicio: 19:00pm
+  hora_final: 19:50pm
+  lugar: Contenedor Cultural ---> Sala principal
+  categoria: Charla
+  keywords: fablab, maker, US
+  link: http://google.es
+
+- titulo: Mini-Laboratorio de Robótica Espacial
+  descripcion: Las mascotas usualmente son adorables. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>¿Por qué no transformarlo todo en mascotas?
+  foto: /festival/img/contenedor_cultural.png
+  hora_inicio: 19:00pm
+  hora_final: 19:50pm
+  lugar: Contenedor Cultural ---> Sala Primer Piso
+  categoria: Charla
+  keywords: fablab, US
   link: http://google.es
