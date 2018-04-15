@@ -25,7 +25,7 @@
 
 - titulo: "Paleoantropología 2.0"
   descripcion: "Hablaremos sobre el uso de las nuevas tecnologías en el estudio y la divulgación de la evolución humana"
-  foto: /festival/img/actividades/paleoantropología.png
+  foto: /festival/img/actividades/paleoantropologia.png
   hora_inicio: 15:00pm
   hora_final: 15:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -49,7 +49,7 @@
 
 - titulo: Python Científico
   descripcion: "Python es un lenguaje de programación muy extendido en la comunidad científica. En esta charla verás muchos ejemplos de uso"
-  foto: /festival/img/actividades/python_científico.gif
+  foto: /festival/img/actividades/python_cientifico.gif
   hora_inicio: 17:00pm
   hora_final: 17:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -95,7 +95,7 @@
   descripcion: "La inteligencia artíficial ya ha cambiado el mundo. Comprende como funciona una de sus variantes en este taller orientado a todos los públicos.
 
   Un primer contacto con el reconocimiento de imágenes, en la que tú mismo tendrás la oportunidad de ser una neurona."
-  foto: /festival/img/actividades/Inteligencia_artíficial.png
+  foto: /festival/img/actividades/Inteligencia_artificial.png
   hora_inicio: 16:00pm
   hora_final: 17:30pm
   lugar: Contenedor Cultural ---> Sala Primer Piso
@@ -106,7 +106,7 @@
 
 - titulo: Instalación de Audiovisuales Interactivos
   descripcion: "Experimenta con el sonido y la animaciones en esta instalación interactivo. Obligatorio tocar :)"
-  foto: /festival/img/actividades/instalación_interactiva.png
+  foto: /festival/img/actividades/instalacion_interactiva.png
   hora_inicio: 16:00pm
   hora_final: 20:00pm
   lugar: Contenedor Cultural ---> Sala 2
@@ -117,7 +117,7 @@
 
 - titulo: "Taller de Cocina: Hábitos saludables y cáncer"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
-  foto: /festival/img/actividades/Cocina_hábitos_saludables.png
+  foto: /festival/img/actividades/Cocina_habitos_saludables.png
   hora_inicio: 12:30pm
   hora_final: 14:30pm
   lugar: Contenedor Cultural ---> Jardín
@@ -128,7 +128,7 @@
 
 - titulo: "Taller Teledetección: la exploración del siglo XXII"
   descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino (nombre en twitter)."
-  foto: /festival/img/actividades/teledetección.png
+  foto: /festival/img/actividades/teledeteccion.png
   hora_inicio: 16:00pm
   hora_final: 17:00pm
   lugar: Contenedor Cultural ---> Jardín
@@ -139,7 +139,7 @@
 
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
-  foto: /festival/img/actividades/biología_sintética.png
+  foto: /festival/img/actividades/biologia_sintetica.png
   hora_inicio: 11:00pm
   hora_final: 11:30pm
   lugar: Facultad de Ciencias ---> Lab I+D II (Bajo la Biblioteca)
@@ -198,7 +198,7 @@
 
 - titulo: "Visualización Músical con Arduinos (Turno 1)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
-  foto: /festival/img/actividades/visualización_musical_arduinos.jpg
+  foto: /festival/img/actividades/visualizacion_musical_arduinos.jpg
   hora_inicio: 11:00pm
   hora_final: 14:00pm
   lugar: Aulario Gerald Brenan ---> Aula II
@@ -209,7 +209,7 @@
 
 - titulo: "Visualización Músical con Arduinos (Turno 2)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
-  foto: /festival/img/actividades/visualización_musical_arduinos.jpg
+  foto: /festival/img/actividades/visualizacion_musical_arduinos.jpg
   hora_inicio: 16:00pm
   hora_final: 19:00pm
   lugar: Aulario Gerald Brenan ---> Aula II
