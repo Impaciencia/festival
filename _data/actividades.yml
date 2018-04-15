@@ -264,7 +264,7 @@
 
 - titulo: "Un huerto en mi balcón"
   descripcion: "Dale una oportunidad a la tomatera Manuela! Ven a aprender a plantar diversas especies dependiendo de la estación y a fabricar tus propios maceteros. ¡Convierte tu balcón en un huerto con nosotros!"
-  foto: /festival/img/actividades/Sketchup_logo_model.png
+  foto: /festival/img/actividades/huerto.png
   hora_inicio: 11:00pm
   hora_final: 12:00pm
   lugar: Contenedor Cultural ---> Stand Impaciencia
@@ -275,7 +275,7 @@
 
 - titulo: "Escape Room: Investiga para salir"
   descripcion: "Un escace room en el que tendréis que utilizar todo vuestro ingenio para poder escapar del recinto. Duración 30 min por sesión."
-  foto: /festival/img/actividades/Sketchup_logo_model.png
+  foto: /festival/img/actividades/escape_room.png
   hora_inicio: 11:00pm
   hora_final: 14:00pm
   lugar: Contenedor Cultural ---> Sala 2
