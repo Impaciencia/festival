@@ -1,4 +1,4 @@
-- titulo: Taller: Construye tu propio instrumento de investigación con Arduino y Raspberry Pi
+- titulo: "Construye tu propio instrumento de investigación con Arduino y Raspberry Pi"
   descripcion: "¿Has pensado en crearte tu propio instrumental científico? Con Arduino y Raspberry Pi las posibilidades son infinitas. Hay numerosos grupos de investigación que han hecho uso de estas dos herramientas para crear instrumental para diversas áreas: química, biología, electrónica, medicina, etc. En esta charla se hablará de qué es el hardware libre, qué herramientas tenemos disponibles y cómo se han utilizado hasta ahora para diseñar equipo científico."
   foto: https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1
   hora_inicio: 11:00pm
@@ -23,7 +23,7 @@
   keywords: Cortometraje, Impaciencia.
   link: http://google.es
 
-- titulo: Paleoantropología 2.0
+- titulo: "Paleoantropología 2.0"
   descripcion: "Hablaremos sobre el uso de las nuevas tecnologías en el estudio y la divulgación de la evolución humana"
   foto: /festival/img/contenedor_cultural.png
   hora_inicio: 15:00pm
@@ -34,7 +34,7 @@
   keywords: paleoantropología,
   link: http://google.es
 
-- titulo: "DIYBio : El nacimiento de una nueva revolución tecnológica"
+- titulo: "DIYBio: El nacimiento de una nueva revolución tecnológica"
   descripcion: "Los nuevos materiales y las nuevas tecnologías han permitido minimizar el tamaño de una gran cantidad de aparatos electrónicos, el ejemplo más conocido es la evolución de los ordenadores que pasaron desde ocupar una habitación hasta poder llevarlo en el bolsillo. Lo mismo está ocurriendo ahora con los aparatos de laboratorio. Y del laboratorio de genética en particular.
 
   En esta charla Taller pretendemos mostrar, mediante una actividad práctica,  los últimos avances en la miniaturización que nos han permitido montar un laboratorio móvil de análisis genético , en nuestro caso con fines educativos."
