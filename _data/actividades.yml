@@ -7,7 +7,7 @@
   categoria: Taller
   monitor: "Nuria López Ruiz (Universidad Carlos III de Madrid)"
   keywords: taller, Arduino, Raspberry pi, cacharreo
-  link: http://google.es
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfQZ25IGyVITc9jhasaW93iEwzcpUp4MS2B2Jn3gyIUUG9ruA/viewform?usp=sf_link
   text: "Se dará una charla introductoria al hardware libre. La idea inicial es hacer uso de alguna herramienta colaborativa para que la charla sea más interactiva, como, por ejemplo, Socrative. De este modo se podrán ir respondiendo preguntas en tiempo real durante la charla.
 
   Por otro lado, al finalizar la charla, se realizará un taller para fabricación, de modo simplificado, de dos equipos portátiles para la medida de oxígeno y para la clasificación de materiales a partir de Arduino UNO y un sensor digital de color. Se hará uso de LEDs, resistencias, cables, protoboards y material adicional como cajas pequeñas, pistola de silicona, fiso, etc., para tratar de crear la estructura de estos dispositivos de forma sencilla."
@@ -21,7 +21,7 @@
   monitor: "Nohappyendings Films"
   categoria: Cortometraje
   keywords: Cortometraje, Impaciencia.
-  link: http://google.es
+  link: https://goo.gl/forms/G4HCsKUsgL81GznQ2
 
 - titulo: "Paleoantropología 2.0"
   descripcion: "Hablaremos sobre el uso de las nuevas tecnologías en el estudio y la divulgación de la evolución humana"
@@ -32,7 +32,7 @@
   categoria: Charla
   monitor: "José Luis Moreno (Hablando de Ciencia)"
   keywords: paleoantropología,
-  link: http://google.es
+  link: https://goo.gl/forms/hYIF5qQ21BOI8n3B2
 
 - titulo: "DIYBio: El nacimiento de una nueva revolución tecnológica"
   descripcion: "Los nuevos materiales y las nuevas tecnologías han permitido minimizar el tamaño de una gran cantidad de aparatos electrónicos, el ejemplo más conocido es la evolución de los ordenadores que pasaron desde ocupar una habitación hasta poder llevarlo en el bolsillo. Lo mismo está ocurriendo ahora con los aparatos de laboratorio. Y del laboratorio de genética en particular.
@@ -45,7 +45,7 @@
   categoria: Charla
   monitor: "Claudia Ortega (Guadatech)"
   keywords: DIYBio, biohacking, genética
-  link: http://google.es
+  link: https://goo.gl/forms/d7tBHQ0BR3tVStTJ3
 
 - titulo: Python Científico
   descripcion: "Python es un lenguaje de programación muy extendido en la comunidad científica. En esta charla verás muchos ejemplos de uso"
@@ -56,7 +56,7 @@
   categoria: Charla
   monitor: Kiko Correoso (Pybonacci)
   keywords: python, pybonacci, ciencia, computación
-  link: http://google.es
+  link: https://goo.gl/forms/LoTD3BSlVQPf7Etr2
 
 - titulo: Un espacio de Creación Digital. Un fablab
   descripcion: "Los fablabs nacen principalmente de las ganas de sus creadores de montar algo que sea diferente pero, al mismo tiempo, que esté unido a otros espacios con la misma filosofía. Así, un fablab son las personas que entran por sus puertas, teniendo a las máquinas como pretexto para compartir las ganas de hacer."
@@ -67,7 +67,7 @@
   categoria: Charla
   monitor: "Juan Carlos Pérez Juidias (Fablab US) "
   keywords: fablab, maker, US
-  link: http://google.es
+  link: https://goo.gl/forms/Vb5L2zgY8oxu5woC2
 
 - titulo: De tu garage a la Nasa por la via Maker
   descripcion: "Charla presentación del proyecto Eye of Horus y de como el Open Source puede ayudarte a pasar de trabajar en un pequeño local de 20 metros cuadrados en Zaragoza, a ser invitado por la NASA a presentar el proyecto y visitar sus instalaciones."
@@ -78,7 +78,7 @@
   categoria: Charla
   monitor: "Luis Martin (Makeroni/Innovart)"
   keywords: fablab, maker, US
-  link: http://google.es
+  link: https://goo.gl/forms/NGlPXnfSqh9vT1qr2
 
 - titulo: Mini-Laboratorio de Robótica Espacial (Taller Jóvenes)
   descripcion: "Taller de robótica educativa, para jóvenes de 15 a 18 años, en el que, organizados por equipos, tendrán un tiempo límite para construir, desarrollar y programar un robot explorador basado en arduino cuya misión ficticia ​será la de buscar a un robot perdido en el planeta UMA. Experiencia interactiva, inmersiva, divertida y gamificada en la que lo importante es el aprendizaje​."
@@ -89,7 +89,7 @@
   categoria: Taller
   monitor: Carlos Canet, Elena Valencia y Elena Solís
   keywords: mini-laboratorio, robótica, arduino, jóvenes
-  link: http://google.es
+  link: https://goo.gl/forms/lh51zDU6yexQAR4C3
 
 - titulo: Taller Inteligencia Artíficial
   descripcion: "La inteligencia artíficial ya ha cambiado el mundo. Comprende como funciona una de sus variantes en este taller orientado a todos los públicos.
@@ -102,9 +102,9 @@
   categoria: Taller
   monitor: Jean François Kener
   keywords: Inteligencia Artíficial, perceptrón, aprendizaje automático
-  link: http://google.es
+  link: https://goo.gl/forms/JiWvskyQkBpOwiWw1
 
-- titulo: Instalación de Audiovisuales Interactivos
+- titulo: Instalación Interactiva Audiovisual
   descripcion: "Experimenta con el sonido y la animaciones en esta instalación interactivo. Obligatorio tocar :)"
   foto: /festival/img/actividades/instalacion_interactiva.png
   hora_inicio: 16:00pm
@@ -113,7 +113,7 @@
   categoria: Instalación
   monitor: Whiteroom
   keywords: Instalación, videomapping, música
-  link: http://google.es
+  link: https://docs.google.com/forms/d/e/1FAIpQLScVHu52lav5ym5UdSUP8NRtkB711mWNpnt36kLTKNa2NWvd-Q/viewform?usp=sf_link
 
 - titulo: "Taller de Cocina: Hábitos saludables y cáncer"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
@@ -124,7 +124,7 @@
   categoria: Taller
   monitor: "Javier Jurado (Supervisada por el catedrático de bioquímca de la Universidad de Málaga: Miguel Ángel Medina)"
   keywords: Cocina, Taller, alimentación, bioquímica
-  link: http://google.es
+  link: https://goo.gl/forms/DFwCFPMfPLd96j4h1
 
 - titulo: "Taller Teledetección: la exploración del siglo XXII"
   descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino (nombre en twitter)."
@@ -135,7 +135,7 @@
   categoria: Taller
   monitor: "Alvaro Cortes (@alvarocmolino)"
   keywords: teledetección, fisiología vegetal, cámara multiespectral.
-  link: http://google.es
+  link: https://goo.gl/forms/Rirdzxwg6QXkqebZ2
 
 - titulo: "Exposición de los talleres presentados en el concurso Impaciencia"
   descripcion: "Equipos de estudiantes de toda Andalucía han estado trabajando de forma multidisciplinar para investigar en diversos temas desde biología a educación. Aquí podrás ver lo que han estado haciendo durante todos estos meses"
@@ -146,7 +146,7 @@
   categoria: Taller
   monitor: Impaciencia
   keywords: Impaciencia, concurso.
-  link: http://google.es
+  link: https://goo.gl/forms/pAz5hwouwSdJDfcS2
 
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
@@ -157,7 +157,7 @@
   categoria: Taller
   monitor: José Joaquín Serrano
   keywords: genética, igem, sintética.
-  link: http://google.es
+  link: https://goo.gl/forms/iK0nyCScbDu9mEWf2
 
 - titulo: "Taller de Neurociencia DIY. Electrofisiología, escuchando a las neuronas y a las plantas"
   descripcion: "En este taller aprenderás las bases de la neurociencia, de una forma práctica y amena, y las pondrás en práctica con dos de las tecnologías más rompedoras en el campo de la divulgación de la neurociencia hasta el momento; La interfaz de control humano-humano, con la que podrás controlar el movimiento de otras personas (o dejar que ellas te controlen a ti) y la interfaz de intercambio de señales entre vegetales, con la que haremos que especies totalmente distintas establezcan una comunicación eléctrica y respondan ante estímulos que le ocurren a otros individuos como si fueran suyos propios."
@@ -168,7 +168,7 @@
   categoria: Taller
   monitor: OpenLab Madrid (openlabmadrid.es)
   keywords: DIYBio, NeurocienciaDIY, control Humano, Electrofisiología, Openlab Madrid.
-  link: http://google.es
+  link: https://goo.gl/forms/uYxCQHTBF4ZYLO6L2
 
 - titulo: "Introducción a la terminal de Mac y Linux (Bash)"
   descripcion: "Prácticamente todo lo que hacemos hoy día con el ordenador lo hacemos de forma gráfica, pero no es la única forma de hacerlo. Cualquier tarea que se nos ocurra podemos automatizarla fácilmente a través de la terminal.
@@ -179,9 +179,9 @@
   hora_final: 12:30pm
   lugar: Aulario Gerald Brenan ---> Aula I
   categoria: Taller
-  monitor: Pedro Seoane
+  monitor: Pedro Seoane y Elena Rojano
   keywords: informática, terminal, bash, computación científica
-  link: http://google.es
+  link: https://goo.gl/forms/Pyr9dZMmgZYX4wqY2
 
 - titulo: "Github. Plataforma de desarrollo colaborativo"
   descripcion: "Github se ha vuelto una herramienta indispensable en los proyectos digitales ya sean programas, paginas web o incluso artículos de investigación. Aprende a ser el Master de Github con este taller."
@@ -192,7 +192,7 @@
   categoria: Taller
   monitor: Ismael Olea
   keywords: github, versiones, gestión de la investigación.
-  link: http://google.es
+  link: https://goo.gl/forms/q7FrA32Gjt69f3WH2
 
 - titulo: "Cómo usar un superordenador for dummies"
   descripcion: "Escuchar la palabra superordenador puede que asuste un poco pero, si te decimos que después de este taller podrás llegar a controlar uno vale la pena lanzarse ¿no? ¿Ya sientes el power?
@@ -205,7 +205,7 @@
   categoria: Taller
   monitor: Pedro Seoane y Elena Rojano
   keywords: autoflow, superordenador, flujo de trabajo, programación.
-  link: http://google.es
+  link: https://goo.gl/forms/HP0b06cNF25tykAq2
 
 - titulo: "Visualización Músical con Arduinos (Turno 1)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
@@ -216,7 +216,7 @@
   categoria: Taller
   monitor: Agustín Pedrero y Pitech
   keywords: arduino, arte, música, interactivos
-  link: http://google.es
+  link: https://goo.gl/forms/aYOlkmhstELUaDpD3
 
 - titulo: "Visualización Músical con Arduinos (Turno 2)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
@@ -227,7 +227,7 @@
   categoria: Taller
   monitor: Agustín Pedrero y Pitech
   keywords: arduino, arte, música, interactivos
-  link: http://google.es
+  link: https://goo.gl/forms/aYOlkmhstELUaDpD3
 
 - titulo: "Humanidades digitales: Social Media Analysis"
   descripcion: "Las redes sociales han provocado una revolución a nivel social y tecnológico. La cantidad de información que se almacena en webs como Facebook, Twitter, Instagram ha provocado la necesidad de desarrollar técnicas de computación eficaces para procesar tal cantidad de datos. Aprenderemos a descargar la información de Twitter, así como analizarla con gráficos en R, Tableau y Gephi."
@@ -238,7 +238,7 @@
   categoria: Taller
   monitor: "Ana Valdivia (Universidad de Granada)"
   keywords: R, twitter, datos, redes, comunicación.
-  link: http://google.es
+  link: https://goo.gl/forms/uUqOBvoyCRrYC5qC2
 
 - titulo: "La magia de Javascript. Something.js"
   descripcion: "Un repaso a la historia de JavaScript, veremos brevemente su evolución y como gracias a ser el lenguaje de la red se ha convertido en uno de los lenguajes más versátiles y prometedores al alcance de todos. JavaScript, de un humilde origen enfocado a la interfaz y experiencia del usuario vejado por los intereses de grandes compañias, a su salto a la nube, y uso multipropósito: apps multidispositivo, videojuegos, machine learning, etc."
@@ -249,7 +249,7 @@
   categoria: Taller
   monitor: Génesis García
   keywords: Javascript, programación, web, arte digital.
-  link: http://google.es
+  link: https://goo.gl/forms/VGjGaVSO9QsIAvMG3
 
 - titulo: "Diseña lo que quieras en 3D con SketchUp"
   descripcion: "SketchUp es una herramienta gratuita y muy fácil de utilizar que te permitirá introducirte en el mundo del 3D. Una vez que tengas el modelo 3D, imprimirlo en 3D será coser y cantar :)"
@@ -260,7 +260,7 @@
   categoria: Taller
   monitor: Fablab Málaga
   keywords: 3D, sketchup, web, arte digital.
-  link: http://google.es
+  link: https://goo.gl/forms/tXdKHxCLXtA0gz2q2
 
 - titulo: "Un huerto en mi balcón"
   descripcion: "Dale una oportunidad a la tomatera Manuela! Ven a aprender a plantar diversas especies dependiendo de la estación y a fabricar tus propios maceteros. ¡Convierte tu balcón en un huerto con nosotros!"
@@ -271,10 +271,10 @@
   categoria: Taller
   monitor: Carmen Fernández
   keywords: huerto, biología, agricultura.
-  link: http://google.es
+  link: https://goo.gl/forms/2IZ8E5odKLwXocDM2
 
 - titulo: "Escape Room: Investiga para salir"
-  descripcion: "Un escace room en el que tendréis que utilizar todo vuestro ingenio para poder escapar del recinto. Duración 30 min por sesión."
+  descripcion: "Un escape room en el que tendréis que utilizar todo vuestro ingenio para poder escapar del recinto. Duración 30 min por sesión."
   foto: /festival/img/actividades/escape_room.png
   hora_inicio: 11:00pm
   hora_final: 14:00pm
@@ -282,4 +282,17 @@
   categoria: Instalación
   monitor: Impaciencia
   keywords: escape room, juego, investigación, deducción.
-  link: http://google.es
+  link: https://goo.gl/forms/LkCM5ZXNzKJ2XfP33
+
+- titulo: "Construcción y demostración de un sintetizador Zynthian"
+  descripcion: "Zynthian es una nueva clase de módulo de síntesis. Una especie de navaja suiza sonora, equipada con múltiples motores, efectos y filtros. Completamente configurable y actualizable.
+
+  Una Plataforma Abierta para la Sintesis de Sonido. Basado en Raspberry Pi y Linux, su especificación de hardware es pública y el software que utiliza es libre. Es hackable."
+  foto: /festival/img/actividades/zynthian.png
+  hora_inicio: 16:00pm
+  hora_final: 18:00pm
+  lugar: Aulario Gerald Brenan ---> Aula III
+  categoria: Instalación
+  monitor: Zynthian
+  keywords: maker, zynthian, música.
+  link: https://goo.gl/forms/Fc1PM191nX2rx1j53
