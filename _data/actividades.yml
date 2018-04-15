@@ -1,6 +1,6 @@
 - titulo: "Construye tu propio instrumento de investigación con Arduino y Raspberry Pi"
   descripcion: "¿Has pensado en crearte tu propio instrumental científico? Con Arduino y Raspberry Pi las posibilidades son infinitas. Hay numerosos grupos de investigación que han hecho uso de estas dos herramientas para crear instrumental para diversas áreas: química, biología, electrónica, medicina, etc. En esta charla se hablará de qué es el hardware libre, qué herramientas tenemos disponibles y cómo se han utilizado hasta ahora para diseñar equipo científico."
-  foto: https://i2.wp.com/neurologiclabs.com/wp-content/uploads/2013/12/EEG2.gif?ssl=1
+  foto: /festival/img/actividades/taller_arduino_investigacion.jpg
   hora_inicio: 11:00pm
   hora_final: 13:00pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -14,7 +14,7 @@
 
 - titulo: A través del tiempo
   descripcion: "Serie de cortometrajes. 3 historias que se entrelazarán en la búsqueda de una respuesta"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/a_traves_tiempo.jpg
   hora_inicio: 14:30pm
   hora_final: 15:00pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -25,7 +25,7 @@
 
 - titulo: "Paleoantropología 2.0"
   descripcion: "Hablaremos sobre el uso de las nuevas tecnologías en el estudio y la divulgación de la evolución humana"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/paleoantropología.png
   hora_inicio: 15:00pm
   hora_final: 15:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -38,7 +38,7 @@
   descripcion: "Los nuevos materiales y las nuevas tecnologías han permitido minimizar el tamaño de una gran cantidad de aparatos electrónicos, el ejemplo más conocido es la evolución de los ordenadores que pasaron desde ocupar una habitación hasta poder llevarlo en el bolsillo. Lo mismo está ocurriendo ahora con los aparatos de laboratorio. Y del laboratorio de genética en particular.
 
   En esta charla Taller pretendemos mostrar, mediante una actividad práctica,  los últimos avances en la miniaturización que nos han permitido montar un laboratorio móvil de análisis genético , en nuestro caso con fines educativos."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/BioDIY.jpg
   hora_inicio: 16:00pm
   hora_final: 16:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -49,7 +49,7 @@
 
 - titulo: Python Científico
   descripcion: "Python es un lenguaje de programación muy extendido en la comunidad científica. En esta charla verás muchos ejemplos de uso"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/python_científico.gif
   hora_inicio: 17:00pm
   hora_final: 17:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -60,7 +60,7 @@
 
 - titulo: Un espacio de Creación Digital. Un fablab
   descripcion: "Los fablabs nacen principalmente de las ganas de sus creadores de montar algo que sea diferente pero, al mismo tiempo, que esté unido a otros espacios con la misma filosofía. Así, un fablab son las personas que entran por sus puertas, teniendo a las máquinas como pretexto para compartir las ganas de hacer."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/fablab_sevilla.jpg
   hora_inicio: 18:00pm
   hora_final: 18:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -71,7 +71,7 @@
 
 - titulo: De tu garage a la Nasa por la via Maker
   descripcion: "Charla presentación del proyecto Eye of Horus y de como el Open Source puede ayudarte a pasar de trabajar en un pequeño local de 20 metros cuadrados en Zaragoza, a ser invitado por la NASA a presentar el proyecto y visitar sus instalaciones."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/del_garaje_a_nasa_2.jpg
   hora_inicio: 19:00pm
   hora_final: 19:50pm
   lugar: Contenedor Cultural ---> Sala principal
@@ -82,7 +82,7 @@
 
 - titulo: Mini-Laboratorio de Robótica Espacial (Taller Jóvenes)
   descripcion: "Taller de robótica educativa, para jóvenes de 15 a 18 años, en el que, organizados por equipos, tendrán un tiempo límite para construir, desarrollar y programar un robot explorador basado en arduino cuya misión ficticia ​será la de buscar a un robot perdido en el planeta UMA. Experiencia interactiva, inmersiva, divertida y gamificada en la que lo importante es el aprendizaje​."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/robotica_msa.png
   hora_inicio: 11:00pm
   hora_final: 14:00pm
   lugar: Contenedor Cultural ---> Sala Primer Piso
@@ -95,7 +95,7 @@
   descripcion: "La inteligencia artíficial ya ha cambiado el mundo. Comprende como funciona una de sus variantes en este taller orientado a todos los públicos.
 
   Un primer contacto con el reconocimiento de imágenes, en la que tú mismo tendrás la oportunidad de ser una neurona."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/Inteligencia_artíficial.png
   hora_inicio: 16:00pm
   hora_final: 17:30pm
   lugar: Contenedor Cultural ---> Sala Primer Piso
@@ -106,7 +106,7 @@
 
 - titulo: Instalación de Audiovisuales Interactivos
   descripcion: "Experimenta con el sonido y la animaciones en esta instalación interactivo. Obligatorio tocar :)"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/instalación_interactiva.png
   hora_inicio: 16:00pm
   hora_final: 20:00pm
   lugar: Contenedor Cultural ---> Sala 2
@@ -117,18 +117,18 @@
 
 - titulo: "Taller de Cocina: Hábitos saludables y cáncer"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/Cocina_hábitos_saludables.png
   hora_inicio: 12:30pm
   hora_final: 14:30pm
   lugar: Contenedor Cultural ---> Jardín
   categoria: Taller
-  monitor: Javier Jurado
+  monitor: Javier Jurado (Supervisada por el catedrático de bioquímca de la Universidad de Málaga: Miguel Ángel Medina)
   keywords: Cocina, Taller, alimentación, bioquímica
   link: http://google.es
 
 - titulo: "Taller Teledetección: la exploración del siglo XXII"
   descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino (nombre en twitter)."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/teledetección.png
   hora_inicio: 16:00pm
   hora_final: 17:00pm
   lugar: Contenedor Cultural ---> Jardín
@@ -139,7 +139,7 @@
 
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/biología_sintética.png
   hora_inicio: 11:00pm
   hora_final: 11:30pm
   lugar: Facultad de Ciencias ---> Lab I+D II (Bajo la Biblioteca)
@@ -150,7 +150,7 @@
 
 - titulo: "Taller de Neurociencia DIY. Electrofisiología, escuchando a las neuronas y a las plantas"
   descripcion: "En este taller aprenderás las bases de la neurociencia, de una forma práctica y amena, y las pondrás en práctica con dos de las tecnologías más rompedoras en el campo de la divulgación de la neurociencia hasta el momento; La interfaz de control humano-humano, con la que podrás controlar el movimiento de otras personas (o dejar que ellas te controlen a ti) y la interfaz de intercambio de señales entre vegetales, con la que haremos que especies totalmente distintas establezcan una comunicación eléctrica y respondan ante estímulos que le ocurren a otros individuos como si fueran suyos propios."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/neurociencia_DIY_2.png
   hora_inicio: 11:00pm
   hora_final: 12:30pm
   lugar: Facultad de Ciencias ---> Lab I+D II (Bajo la Biblioteca)
@@ -163,7 +163,7 @@
   descripcion: "Prácticamente todo lo que hacemos hoy día con el ordenador lo hacemos de forma gráfica, pero no es la única forma de hacerlo. Cualquier tarea que se nos ocurra podemos automatizarla fácilmente a través de la terminal.
 
   Taller para tener un primer contacto con la línea de comandos y aprender como utilizar sus capacidades para el análisis de datos."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/terminal_linux.gif
   hora_inicio: 11:00pm
   hora_final: 12:30pm
   lugar: Aulario Gerald Brenan ---> Aula I
@@ -174,7 +174,7 @@
 
 - titulo: "Github. Plataforma de desarrollo colaborativo"
   descripcion: "Github se ha vuelto una herramienta indispensable en los proyectos digitales ya sean programas, paginas web o incluso artículos de investigación. Aprende a ser el Master de Github con este taller."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/github_2.jpg
   hora_inicio: 11:00pm
   hora_final: 12:30pm
   lugar: Aulario Gerald Brenan ---> Aula I
@@ -187,7 +187,7 @@
   descripcion: "Escuchar la palabra superordenador puede que asuste un poco pero, si te decimos que después de este taller podrás llegar a controlar uno vale la pena lanzarse ¿no? ¿Ya sientes el power?
 
   Taller enfocado a entender y usar recursos de supercomputación en análisis de grandes cantidades de datos."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/Superordenador.png
   hora_inicio: 15:30pm
   hora_final: 17:00pm
   lugar: Aulario Gerald Brenan ---> Aula I
@@ -198,7 +198,7 @@
 
 - titulo: "Visualización Músical con Arduinos (Turno 1)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/visualización_musical_arduinos.jpg
   hora_inicio: 11:00pm
   hora_final: 14:00pm
   lugar: Aulario Gerald Brenan ---> Aula II
@@ -209,7 +209,7 @@
 
 - titulo: "Visualización Músical con Arduinos (Turno 2)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/visualización_musical_arduinos.jpg
   hora_inicio: 16:00pm
   hora_final: 19:00pm
   lugar: Aulario Gerald Brenan ---> Aula II
@@ -220,7 +220,7 @@
 
 - titulo: "Humanidades digitales: Social Media Analysis"
   descripcion: "Las redes sociales han provocado una revolución a nivel social y tecnológico. La cantidad de información que se almacena en webs como Facebook, Twitter, Instagram ha provocado la necesidad de desarrollar técnicas de computación eficaces para procesar tal cantidad de datos. Aprenderemos a descargar la información de Twitter, así como analizarla con gráficos en R, Tableau y Gephi."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/social_media_analysis.png
   hora_inicio: 11:00pm
   hora_final: 13:30pm
   lugar: Aulario Gerald Brenan ---> Aula III
@@ -231,7 +231,7 @@
 
 - titulo: "La magia de Javascript. Something.js"
   descripcion: "Un repaso a la historia de JavaScript, veremos brevemente su evolución y como gracias a ser el lenguaje de la red se ha convertido en uno de los lenguajes más versátiles y prometedores al alcance de todos. JavaScript, de un humilde origen enfocado a la interfaz y experiencia del usuario vejado por los intereses de grandes compañias, a su salto a la nube, y uso multipropósito: apps multidispositivo, videojuegos, machine learning, etc."
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/javascript_2.gif
   hora_inicio: 13:30pm
   hora_final: 14:30pm
   lugar: Aulario Gerald Brenan ---> Aula III
@@ -242,7 +242,7 @@
 
 - titulo: "Diseña lo que quieras en 3D con SketchUp"
   descripcion: "SketchUp es una herramienta gratuita y muy fácil de utilizar que te permitirá introducirte en el mundo del 3D. Una vez que tengas el modelo 3D, imprimirlo en 3D será coser y cantar :)"
-  foto: /festival/img/contenedor_cultural.png
+  foto: /festival/img/actividades/Sketchup_logo_model.png
   hora_inicio: 11:00pm
   hora_final: 14:30pm
   lugar: Aulario Gerald Brenan ---> Aula IV
