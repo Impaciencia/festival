@@ -137,6 +137,17 @@
   keywords: teledetección, fisiología vegetal, cámara multiespectral.
   link: http://google.es
 
+- titulo: "Exposición de los talleres presentados en el concurso Impaciencia"
+  descripcion: "Equipos de estudiantes de toda Andalucía han estado trabajando de forma multidisciplinar para investigar en diversos temas desde biología a educación. Aquí podrás ver lo que han estado haciendo durante todos estos meses"
+  foto: /festival/img/actividades/biologia_sintetica.png
+  hora_inicio: 11:00pm
+  hora_final: 13:00pm
+  lugar: Facultad de Ciencias ---> Lab I+D I (Bajo la Biblioteca)
+  categoria: Taller
+  monitor: Impaciencia
+  keywords: Impaciencia, concurso.
+  link: http://google.es
+
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
   descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
   foto: /festival/img/actividades/biologia_sintetica.png
@@ -249,4 +260,26 @@
   categoria: Taller
   monitor: Fablab Málaga
   keywords: 3D, sketchup, web, arte digital.
+  link: http://google.es
+
+- titulo: "Un huerto en mi balcón"
+  descripcion: "Dale una oportunidad a la tomatera Manuela! Ven a aprender a plantar diversas especies dependiendo de la estación y a fabricar tus propios maceteros. ¡Convierte tu balcón en un huerto con nosotros!"
+  foto: /festival/img/actividades/Sketchup_logo_model.png
+  hora_inicio: 11:00pm
+  hora_final: 12:00pm
+  lugar: Contenedor Cultural ---> Stand Impaciencia
+  categoria: Taller
+  monitor: Carmen Fernández
+  keywords: huerto, biología, agricultura.
+  link: http://google.es
+
+- titulo: "Escape Room: Investiga para salir"
+  descripcion: "Un escace room en el que tendréis que utilizar todo vuestro ingenio para poder escapar del recinto. Duración 30 min por sesión."
+  foto: /festival/img/actividades/Sketchup_logo_model.png
+  hora_inicio: 11:00pm
+  hora_final: 14:00pm
+  lugar: Contenedor Cultural ---> Sala 2
+  categoria: Instalación
+  monitor: Impaciencia
+  keywords: escape room, juego, investigación, deducción.
   link: http://google.es
