@@ -257,10 +257,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #container_actividades a {
-  color:#CCBCEC;
+  color:#0f0e10;
 }
 #container_actividades a:hover {
-  color:#F5F5F5;
+  color:#0f0e10;
 }
 #container_actividades a.link_reg {
   font-size:20px;
