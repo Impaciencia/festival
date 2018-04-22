@@ -129,7 +129,7 @@
   hora_final: 14:30pm
   lugar: Contenedor Cultural ---> Jardín
   categoria: Taller
-  monitor: "Javier Jurado (Supervisada por el catedrático de bioquímca de la Universidad de Málaga: Miguel Ángel Medina)"
+  monitor: "Javier Jurado y Belén Delgado (Supervisada por el catedrático de bioquímca de la Universidad de Málaga: Miguel Ángel Medina)"
   keywords: Cocina, Taller, alimentación, bioquímica
   link: https://goo.gl/forms/DFwCFPMfPLd96j4h1
   status: full
@@ -159,7 +159,7 @@
   status: free
 
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
-  descripcion: "Seguramente, habrás escuchado a tu abuela o a tu padre decirte que te va a “entrar cáncer” por consumir productos con “tantas E”. Estas “E” no son más que aditivos, muchas veces de procedencia natural. Este teatro-taller interactivo nos permitirá sacar a la luz este y otros mitos."
+  descripcion: "Dar a conocer el campo de la Biología Sintética, sus fundamentos, aplicaciones y una toma de contacto con parte de las herramientas y técnicas que se usan en el protocolo estándar de Biobrick Assembly (iGEM)."
   foto: /festival/img/actividades/biologia_sintetica.png
   hora_inicio: 11:00pm
   hora_final: 11:30pm
@@ -208,7 +208,7 @@
   link: https://goo.gl/forms/q7FrA32Gjt69f3WH2
   status: free
 
-- titulo: "Cómo usar un superordenador for dummies"
+- titulo: "Cómo usar un superordenador"
   descripcion: "Escuchar la palabra superordenador puede que asuste un poco pero, si te decimos que después de este taller podrás llegar a controlar uno vale la pena lanzarse ¿no? ¿Ya sientes el power?
 
   Taller enfocado a entender y usar recursos de supercomputación en análisis de grandes cantidades de datos."
