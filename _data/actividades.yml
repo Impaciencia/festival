@@ -23,16 +23,16 @@
   status: free
 
 - titulo: "Databeers + Visualización de Datos"
-  descripcion: "Hablaremos sobre el uso de las nuevas tecnologías en el estudio y la divulgación de la evolución humana"
-  foto: /festival/img/actividades/paleoantropologia.png
+  descripcion: "La charla “Visualizando el BigData en entornos complejos” trata de explicar cómo funciona los sistemas de percepción y memorización humana, para poder aplicar dicho conocimiento al diseño de soluciones visuales que ofrezcan la información clave y en tiempo real a personas que trabajan gestionando grandes cantidades de datos complejos y soportando altos niveles de estrés"
+  foto: /festival/img/actividades/data-vis.gif
   hora_inicio: 15:00pm
   hora_final: 15:50pm
   lugar: Contenedor Cultural ---> Sala principal
   categoria: Charla
-  monitor: "José Luis Moreno (Databeers)"
-  keywords: visualización, datos,
-  link: https://goo.gl/forms/hYIF5qQ21BOI8n3B2
-  status: full
+  monitor: "J. Alberto García (Databeers)"
+  keywords: visualización, datos, d3.js, databeers
+  link: https://goo.gl/forms/RL4TKvdwqUS0WfrD2
+  status: free
 
 - titulo: "DIYBio: El nacimiento de una nueva revolución tecnológica"
   descripcion: "Los nuevos materiales y las nuevas tecnologías han permitido minimizar el tamaño de una gran cantidad de aparatos electrónicos, el ejemplo más conocido es la evolución de los ordenadores que pasaron desde ocupar una habitación hasta poder llevarlo en el bolsillo. Lo mismo está ocurriendo ahora con los aparatos de laboratorio. Y del laboratorio de genética en particular.
@@ -132,7 +132,7 @@
   monitor: "Javier Jurado (Supervisada por el catedrático de bioquímca de la Universidad de Málaga: Miguel Ángel Medina)"
   keywords: Cocina, Taller, alimentación, bioquímica
   link: https://goo.gl/forms/DFwCFPMfPLd96j4h1
-  status: free
+  status: full
 
 - titulo: "Taller Teledetección: la exploración del siglo XXII"
   descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino."
@@ -304,6 +304,7 @@
   monitor: Impaciencia
   keywords: escape room, juego, investigación, deducción.
   link: https://goo.gl/forms/LkCM5ZXNzKJ2XfP33
+  status: free
 
 - titulo: "Construcción y demostración de un sintetizador Zynthian"
   descripcion: "Zynthian es una nueva clase de módulo de síntesis. Una especie de navaja suiza sonora, equipada con múltiples motores, efectos y filtros. Completamente configurable y actualizable.
