@@ -257,7 +257,11 @@ permalink: /schedule_reg/
           </div>
 
           <div class="col-md-2">
+			{% if actividad.status == "free" %}
             <p align="center" color="black"><a color="black" target="_blank" href="{{actividad.link}}" class="btn btn-default btn-call-to-action">Reserva tu plaza!</a></br></p>
+			{% else %}
+			<h3>Plazas agotadas</h3>
+			{% endif %}
           </div>
         </div>
 
