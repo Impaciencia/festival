@@ -72,7 +72,7 @@
   link: https://goo.gl/forms/Vb5L2zgY8oxu5woC2
   status: free
 
-- titulo: De tu garage a la Nasa por la via Maker
+- titulo: De tu garaje a la Nasa por la via Maker
   descripcion: "Charla presentación del proyecto Eye of Horus y de como el Open Source puede ayudarte a pasar de trabajar en un pequeño local de 20 metros cuadrados en Zaragoza, a ser invitado por la NASA a presentar el proyecto y visitar sus instalaciones."
   foto: /festival/img/actividades/del_garaje_a_nasa_2.jpg
   hora_inicio: 19:00pm
@@ -180,7 +180,7 @@
   monitor: OpenLab Madrid (openlabmadrid.es)
   keywords: DIYBio, NeurocienciaDIY, control Humano, Electrofisiología, Openlab Madrid.
   link: https://goo.gl/forms/uYxCQHTBF4ZYLO6L2
-  status: free
+  status: full
 
 - titulo: "Introducción a la terminal de Mac y Linux (Bash)"
   descripcion: "Prácticamente todo lo que hacemos hoy día con el ordenador lo hacemos de forma gráfica, pero no es la única forma de hacerlo. Cualquier tarea que se nos ocurra podemos automatizarla fácilmente a través de la terminal.
