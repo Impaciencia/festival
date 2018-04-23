@@ -22,6 +22,107 @@ permalink: /
 
         </div><!-- .col-md-7 close -->
 
+		<script>
+		$(document).ready(function() {
+		  var options = {
+		    valueNames: [ 'titulo', 'desc_actividad', 'palabras_clave', 'categoria', 'hora_inicio' ]
+		  };
+
+		  var lista_actividades = new List('container_actividades', options);
+
+		      $('.search').on('keyup', function(event) {
+
+		      if($('.list').children().length === 0) {
+
+			$('.not-found').css('display', 'block');
+
+		      } else {
+
+			$('.not-found').css('display', 'none');
+
+		      }
+		    });
+		} );
+		</script>
+
+
+	  <section id="container_actividades">
+	  <div class="container">
+	    <div class="row">
+	        <div class="block">
+	          <div class="section-title">
+	            <h2>Registro en actividades</h2>
+	            <p style="color: #eee;">Aquí puedes apuntarte en toda actividad que a tu cuerpo le plazca</b> </p>
+	          </div>
+
+
+	    <div id="searchbox">
+	      Buscar: <input class="search" placeholder="Search" /></br>
+	      <a href="javascript:void(0);" class="sort" data-sort="hora_inicio">Ordenar por hora</a></br>
+	      <a href="javascript:void(0);" class="sort" data-sort="categoria">Ordenar por categoría</a>
+	    </div>
+
+	    <div style="clear:both"></div>
+
+	    <div class="list">
+
+	      {% for actividad in site.data.actividades %}
+
+	      <div class="container">
+
+	        <div class="row palabras_clave">
+	          <div class="col-md-12 titulo">
+	            <h3>{{actividad.titulo}}</h3>
+	          </div>
+	        </div>
+
+
+	        <div class="row">
+	          <div class="col-md-2">
+	            <img src="{{actividad.foto}}" class="img_actividad">
+	          </div>
+
+
+	          <div class="col-md-2">
+	            <p>
+	            <b>Categoría:</b> <span class="categoria">{{actividad.categoria}}</span></br>
+	            <b>Palabras clave:</b> <br><i>{{actividad.keywords}}</i></p>
+	            <b>Monitores:</b> <br><i>{{actividad.monitor}}</i></p>
+	          </div>
+
+	          <div class="col-md-4 desc_actividad">
+	            <p><b>Descripción:</b> {{actividad.descripcion}}</p>
+	          </div>
+
+	          <div class="col-md-2 desc_actividad">
+	            <p><b>Inicio: </b>
+	              <span class="hora_inicio">{{actividad.hora_inicio}}</span><br>
+	              <b>Fin: </b>
+	              <span class="hora_inicio">{{actividad.hora_final}}</span><br>
+	              <b>Lugar: </b><br>
+	              <span class="hora_inicio">{{actividad.lugar}}</span>
+	            </p>
+	          </div>
+
+	          <div class="col-md-2">
+				{% if actividad.status == "free" %}
+	            <p align="center" color="black"><a color="black" target="_blank" href="{{actividad.link}}" class="btn btn-default btn-call-to-action">Reserva tu plaza!</a></br></p>
+				{% else %}
+				<h3>Plazas agotadas</h3>
+				{% endif %}
+	          </div>
+	        </div>
+
+
+	      </div>
+
+
+	      {% endfor %}
+
+	    </div>
+	    <div class="not-found" style="display:none; margin-bottom:15px">No se encontraron resultados</div>
+	  </section>
+
 
       <!--<div class="col-md-10 col-md-offset-2">
         <div class="block">
