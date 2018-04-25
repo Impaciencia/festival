@@ -1,10 +1,22 @@
+- titulo: Mini-Laboratorio de Robótica Espacial (Taller Jóvenes)
+  descripcion: "Taller de robótica educativa, para jóvenes de 15 a 18 años, en el que, organizados por equipos, tendrán un tiempo límite para construir, desarrollar y programar un robot explorador basado en arduino cuya misión ficticia ​será la de buscar a un robot perdido en el planeta UMA. Experiencia interactiva, inmersiva, divertida y gamificada en la que lo importante es el aprendizaje​."
+  foto: /festival/img/actividades/robotica_msa.png
+  hora_inicio: 11:00pm
+  hora_final: 14:00pm
+  lugar: Contenedor Cultural ---> Sala Primer Piso
+  categoria: Taller
+  monitor: Carlos Canet, Elena Valencia y Elena Solís
+  keywords: mini-laboratorio, robótica, arduino, jóvenes
+  link: https://goo.gl/forms/lh51zDU6yexQAR4C3
+  status: free
+
+
 - titulo: "Introducción al Circuit Bending y construcción de cacharros electrónicos"
   descripcion: "Introduccion al Circuit Bending y construcción de cacharros electrónicos.
-El Circuit Bending es la modificación creativa, a base de cortocircuitos, de aparatos electrónicos de bajo voltaje – juguetes, pedales de efectos, teclados casio, radios, etc. – con el fin de crear nuevos instrumentos musicales, generación de texturas sonoras y agradable ruido.
+  El Circuit Bending es la modificación creativa, a base de cortocircuitos, de aparatos electrónicos de bajo voltaje – juguetes, pedales de efectos, teclados casio, radios, etc. – con el fin de crear nuevos instrumentos musicales, generación de texturas sonoras y agradable ruido.
 
-En este taller podrás experimentar con instrumentos electrónicos modificados y también lo haremos con diferentes prototipos que hemos ido construyendo estos últimos años, muchos de ellos basados en la plataforma Open Source Arduino.
-Traete tu juguete o instrumento electrónico para explorar.
-"
+  En este taller podrás experimentar con instrumentos electrónicos modificados y también lo haremos con diferentes prototipos que hemos ido construyendo estos últimos años, muchos de ellos basados en la plataforma Open Source Arduino.
+  Traete tu juguete o instrumento electrónico para explorar."
   foto: /festival/img/actividades/Bacterio_Bending.jpg
   hora_inicio: 11:00pm
   hora_final: 12:30pm
@@ -27,6 +39,20 @@ Traete tu juguete o instrumento electrónico para explorar.
   keywords: taller, Arduino, Raspberry pi, cacharreo
   link: https://docs.google.com/forms/d/e/1FAIpQLSfQZ25IGyVITc9jhasaW93iEwzcpUp4MS2B2Jn3gyIUUG9ruA/viewform?usp=sf_link
   status: full
+
+- titulo: "Construcción y demostración de un sintetizador Zynthian"
+  descripcion: "Zynthian es una nueva clase de módulo de síntesis. Una especie de navaja suiza sonora, equipada con múltiples motores, efectos y filtros. Completamente configurable y actualizable.
+
+  Una Plataforma Abierta para la Sintesis de Sonido. Basado en Raspberry Pi y Linux, su especificación de hardware es pública y el software que utiliza es libre. Es hackable."
+  foto: /festival/img/actividades/zynthian.png
+  hora_inicio: 16:00pm
+  hora_final: 18:00pm
+  lugar: Aulario Gerald Brenan ---> Aula III
+  categoria: Instalación
+  monitor: Zynthian
+  keywords: maker, zynthian, música.
+  link: https://goo.gl/forms/Fc1PM191nX2rx1j53
+  status: free
 
 - titulo: A través del tiempo
   descripcion: "Serie de cortometrajes. 3 historias que se entrelazarán en la búsqueda de una respuesta"
@@ -102,17 +128,7 @@ Traete tu juguete o instrumento electrónico para explorar.
   link: https://goo.gl/forms/NGlPXnfSqh9vT1qr2
   status: free
 
-- titulo: Mini-Laboratorio de Robótica Espacial (Taller Jóvenes)
-  descripcion: "Taller de robótica educativa, para jóvenes de 15 a 18 años, en el que, organizados por equipos, tendrán un tiempo límite para construir, desarrollar y programar un robot explorador basado en arduino cuya misión ficticia ​será la de buscar a un robot perdido en el planeta UMA. Experiencia interactiva, inmersiva, divertida y gamificada en la que lo importante es el aprendizaje​."
-  foto: /festival/img/actividades/robotica_msa.png
-  hora_inicio: 11:00pm
-  hora_final: 14:00pm
-  lugar: Contenedor Cultural ---> Sala Primer Piso
-  categoria: Taller
-  monitor: Carlos Canet, Elena Valencia y Elena Solís
-  keywords: mini-laboratorio, robótica, arduino, jóvenes
-  link: https://goo.gl/forms/lh51zDU6yexQAR4C3
-  status: free
+
 
 - titulo: Taller Inteligencia Artíficial
   descripcion: "La inteligencia artíficial ya ha cambiado el mundo. Comprende como funciona una de sus variantes en este taller orientado a todos los públicos.
@@ -324,20 +340,6 @@ Traete tu juguete o instrumento electrónico para explorar.
   monitor: Impaciencia
   keywords: escape room, juego, investigación, deducción.
   link: https://goo.gl/forms/LkCM5ZXNzKJ2XfP33
-  status: free
-
-- titulo: "Construcción y demostración de un sintetizador Zynthian"
-  descripcion: "Zynthian es una nueva clase de módulo de síntesis. Una especie de navaja suiza sonora, equipada con múltiples motores, efectos y filtros. Completamente configurable y actualizable.
-
-  Una Plataforma Abierta para la Sintesis de Sonido. Basado en Raspberry Pi y Linux, su especificación de hardware es pública y el software que utiliza es libre. Es hackable."
-  foto: /festival/img/actividades/zynthian.png
-  hora_inicio: 16:00pm
-  hora_final: 18:00pm
-  lugar: Aulario Gerald Brenan ---> Aula III
-  categoria: Instalación
-  monitor: Zynthian
-  keywords: maker, zynthian, música.
-  link: https://goo.gl/forms/Fc1PM191nX2rx1j53
   status: free
 
 
