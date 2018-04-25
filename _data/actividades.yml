@@ -1,3 +1,21 @@
+- titulo: "Introducción al Circuit Bending y construcción de cacharros electrónicos"
+  descripcion: "Introduccion al Circuit Bending y construcción de cacharros electrónicos.
+El Circuit Bending es la modificación creativa, a base de cortocircuitos, de aparatos electrónicos de bajo voltaje – juguetes, pedales de efectos, teclados casio, radios, etc. – con el fin de crear nuevos instrumentos musicales, generación de texturas sonoras y agradable ruido.
+
+En este taller podrás experimentar con instrumentos electrónicos modificados y también lo haremos con diferentes prototipos que hemos ido construyendo estos últimos años, muchos de ellos basados en la plataforma Open Source Arduino.
+Traete tu juguete o instrumento electrónico para explorar.
+"
+  foto: /festival/img/actividades/Bacterio_Bending.jpg
+  hora_inicio: 11:00pm
+  hora_final: 12:30pm
+  lugar: Aulario Gerald Brenan ---> Jardín, junto al escenario.
+  categoria: Taller
+  monitor: Isaias Zambrano / Bacterio Electronics y Chinowski Garachana / Medialab Invisible
+  keywords: app, programación, desarrollo.
+  link: https://goo.gl/forms/p9UNsNxKUoDjOWhA2
+  status: free
+
+
 - titulo: "Construye tu propio instrumento de investigación con Arduino y Raspberry Pi"
   descripcion: "¿Has pensado en crearte tu propio instrumental científico? Con Arduino y Raspberry Pi las posibilidades son infinitas. Hay numerosos grupos de investigación que han hecho uso de estas dos herramientas para crear instrumental para diversas áreas: química, biología, electrónica, medicina, etc. En esta charla se hablará de qué es el hardware libre, qué herramientas tenemos disponibles y cómo se han utilizado hasta ahora para diseñar equipo científico."
   foto: /festival/img/actividades/taller_arduino_investigacion.jpg
@@ -220,7 +238,7 @@
   monitor: Pedro Seoane y Elena Rojano
   keywords: autoflow, superordenador, flujo de trabajo, programación.
   link: https://goo.gl/forms/HP0b06cNF25tykAq2
-  status: full
+  status: free
 
 - titulo: "Visualización Músical con Arduinos (Turno 1)"
   descripcion: "Arduino ha permitido acercar la electrónica al arte. En este taller aprenderas lo básico para poder controlar el sonido y la luz. Y todo ello participando en una obra colectiva que será expuesta al final del día :)"
@@ -244,7 +262,7 @@
   monitor: Agustín Pedrero y Pitech
   keywords: arduino, arte, música, interactivos
   link: https://goo.gl/forms/aYOlkmhstELUaDpD3
-  status: free
+  status: full
 
 - titulo: "Humanidades digitales: Social Media Analysis"
   descripcion: "Las redes sociales han provocado una revolución a nivel social y tecnológico. La cantidad de información que se almacena en webs como Facebook, Twitter, Instagram ha provocado la necesidad de desarrollar técnicas de computación eficaces para procesar tal cantidad de datos. Aprenderemos a descargar la información de Twitter, así como analizarla con gráficos en R, Tableau y Gephi."
@@ -357,17 +375,4 @@
   monitor: GDG
   keywords: app, programación, desarrollo.
   link: https://goo.gl/forms/SuCUnbx2La4Y3G5E2
-  status: free
-
-- titulo: "Introducción al Circuit Bending y construcción de cacharros electrónicos"
-  descripcion: "Introduccion al Circuit Bending y construcción de cacharros electrónicos.
-El Circuit Bending es la modificación creativa, a base de cortocircuitos, de aparatos electrónicos de bajo voltaje – juguetes, pedales de efectos, teclados casio, radios, etc. – con el fin de crear nuevos instrumentos musicales, generación de texturas sonoras y agradable ruido."
-  foto: /festival/img/actividades/Bacterio_Bending.jpg
-  hora_inicio: 11:00pm
-  hora_final: 12:30pm
-  lugar: Aulario Gerald Brenan ---> Jardín, junto al escenario.
-  categoria: Taller
-  monitor: Andrés Garachana e Isaías (aka Bacterio Electrón)
-  keywords: app, programación, desarrollo.
-  link: https://goo.gl/forms/p9UNsNxKUoDjOWhA2
   status: free
