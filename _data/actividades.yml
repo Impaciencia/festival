@@ -27,6 +27,21 @@
   link: https://goo.gl/forms/p9UNsNxKUoDjOWhA2
   status: free
 
+- titulo: "Investigación Lúdica (Juegos de Mesa)"
+  descripcion: "Está claro que no es posible realizar una investigación importante en solitario; es necesario disponer de un equipo bien coordinado. El trabajo en equipo es fundamental, y para ayudar a los asistentes a desarrollarlo la asociación Lex Ludi Malacitana nos trae una serie de juegos de mesa cooperativos, en los que los participantes tendrán que ayudarse mutuamente para conseguir un objetivo común.  Turnos cada hora y media :)"
+  foto: /festival/img/actividades/juegos.jpg
+  hora_inicio: 11:00pm
+  hora_final: 20:00pm
+  lugar: Contenedor Cultural ---> Junto a los foodtrucks
+  categoria: Taller
+  monitor: Isaias Zambrano / Bacterio Electronics y Chinowski Garachana / Medialab Invisible
+  keywords: Juegos de Mesa, investigacón, diversión.
+  link: https://goo.gl/forms/laui3VGM2rsTvHPS2
+  status: free
+
+
+
+
 
 - titulo: "Construye tu propio instrumento de investigación con Arduino y Raspberry Pi"
   descripcion: "¿Has pensado en crearte tu propio instrumental científico? Con Arduino y Raspberry Pi las posibilidades son infinitas. Hay numerosos grupos de investigación que han hecho uso de estas dos herramientas para crear instrumental para diversas áreas: química, biología, electrónica, medicina, etc. En esta charla se hablará de qué es el hardware libre, qué herramientas tenemos disponibles y cómo se han utilizado hasta ahora para diseñar equipo científico."
