@@ -360,8 +360,9 @@
   status: free
 
 - titulo: "Introducción al Circuit Bending y construcción de cacharros electrónicos"
-  descripcion: "Taller de bending/construcción de sinte granular con arduino nano y prototipado midi switcher (secunciador a motor solinoide)"
-  foto: /festival/img/actividades/sintetizador.png
+  descripcion: "Introduccion al Circuit Bending y construcción de cacharros electrónicos.
+El Circuit Bending es la modificación creativa, a base de cortocircuitos, de aparatos electrónicos de bajo voltaje – juguetes, pedales de efectos, teclados casio, radios, etc. – con el fin de crear nuevos instrumentos musicales, generación de texturas sonoras y agradable ruido."
+  foto: /festival/img/actividades/Bacterio_Bending.jpg
   hora_inicio: 11:00pm
   hora_final: 12:30pm
   lugar: Aulario Gerald Brenan ---> Jardín, junto al escenario.
