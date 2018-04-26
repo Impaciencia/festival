@@ -305,7 +305,7 @@
   monitor: "Ana Valdivia (Universidad de Granada)"
   keywords: R, twitter, datos, redes, comunicación.
   link: https://goo.gl/forms/uUqOBvoyCRrYC5qC2
-  status: free
+  status: full
 
 - titulo: "La magia de Javascript. Something.js"
   descripcion: "Un repaso a la historia de JavaScript, veremos brevemente su evolución y como gracias a ser el lenguaje de la red se ha convertido en uno de los lenguajes más versátiles y prometedores al alcance de todos. JavaScript, de un humilde origen enfocado a la interfaz y experiencia del usuario vejado por los intereses de grandes compañias, a su salto a la nube, y uso multipropósito: apps multidispositivo, videojuegos, machine learning, etc."
