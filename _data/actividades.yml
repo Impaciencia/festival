@@ -98,8 +98,8 @@
 
   En esta charla Taller pretendemos mostrar, mediante una actividad práctica,  los últimos avances en la miniaturización que nos han permitido montar un laboratorio móvil de análisis genético , en nuestro caso con fines educativos."
   foto: /festival/img/actividades/BioDIY.jpg
-  hora_inicio: 16:00pm
-  hora_final: 16:50pm
+  hora_inicio: 17:00pm
+  hora_final: 17:50pm
   lugar: Contenedor Cultural ---> Sala principal
   categoria: Charla
   monitor: "Claudia Ortega (Guadatech)"
@@ -110,8 +110,8 @@
 - titulo: Python Científico
   descripcion: "Python es un lenguaje de programación muy extendido en la comunidad científica. En esta charla verás muchos ejemplos de uso"
   foto: /festival/img/actividades/python_cientifico.gif
-  hora_inicio: 17:00pm
-  hora_final: 17:50pm
+  hora_inicio: 16:00pm
+  hora_final: 16:50pm
   lugar: Contenedor Cultural ---> Sala principal
   categoria: Charla
   monitor: Kiko Correoso (Pybonacci)
