@@ -1,3 +1,61 @@
+- titulo: "Exposición de los talleres presentados en el concurso Impaciencia"
+  descripcion: "Equipos de estudiantes de toda Andalucía han estado trabajando de forma multidisciplinar para investigar en diversos temas desde biología a educación. Aquí podrás ver lo que han estado haciendo durante todos estos meses"
+  foto: /festival/img/actividades/impaciencia.png
+  hora_inicio: 11:00pm
+  hora_final: 13:00pm
+  lugar: Facultad de Ciencias ---> Lab I+D I (Bajo la Biblioteca)
+  categoria: Taller
+  monitor: Impaciencia
+  keywords: Impaciencia, concurso.
+  link: https://goo.gl/forms/pAz5hwouwSdJDfcS2
+  status: free
+
+- titulo: Sigue el rastro
+  descripcion: "Acércate a la fauna ibérica de la forma más divertida, descubre los rastros de nuestros animales más emblemáticos, tus paseos por el campo no volverán a ser los mismos. Contenidos del taller
+
+  1. Introducción de algunas especies de fauna ibérica (zorro, lince, tejón, garduña, meloncillo, jabalí, pato, cabra) y sus rastros.
+  2. Juego de parejas para que los usuarios trabajen con esas relaciones.
+  3. Circuito con huellas impresas y réplicas de excrementos para que los usuarios deberán identificar insitu los rastros.
+  4. Conclusión sobre los rastros aprendidos.
+
+  Observaciones
+  Será necesaria ropa cómoda para poder moverse con libertad.
+
+  Turnos cada 40 min"
+  foto: /festival/img/actividades/sigue_el_rastro.png
+  hora_inicio: 11:00am
+  hora_final: 14:00am
+  lugar: Contenedor Cultural ---> Stand Impaciencia
+  categoria: Taller
+  keywords: biología, bichologos, animales.
+  monitor: Carmen Fernández (bióloga)
+  link: https://goo.gl/forms/Gjx2b0WEdapyqe5m1
+  status: free
+
+- titulo: "Taller Teledetección: la exploración del siglo XXII"
+  descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino."
+  foto: /festival/img/actividades/teledeteccion.png
+  hora_inicio: 16:00pm
+  hora_final: 17:00pm
+  lugar: Contenedor Cultural ---> Jardín
+  categoria: Taller
+  monitor: "Alvaro Cortes (@alvarocmolino)"
+  keywords: teledetección, fisiología vegetal, cámara multiespectral.
+  link: https://goo.gl/forms/Rirdzxwg6QXkqebZ2
+  status: free
+
+- titulo: "Investigación Lúdica (Juegos de Mesa)"
+  descripcion: "Está claro que no es posible realizar una investigación importante en solitario; es necesario disponer de un equipo bien coordinado. El trabajo en equipo es fundamental, y para ayudar a los asistentes a desarrollarlo la asociación Lex Ludi Malacitana nos trae una serie de juegos de mesa cooperativos, en los que los participantes tendrán que ayudarse mutuamente para conseguir un objetivo común.  Turnos cada hora y media :)"
+  foto: /festival/img/actividades/juegos.jpg
+  hora_inicio: 11:00pm
+  hora_final: 20:00pm
+  lugar: Contenedor Cultural ---> Junto a los foodtrucks
+  categoria: Taller
+  monitor: Isaias Zambrano / Bacterio Electronics y Chinowski Garachana / Medialab Invisible
+  keywords: Juegos de Mesa, investigacón, diversión.
+  link: https://goo.gl/forms/laui3VGM2rsTvHPS2
+  status: free
+
 - titulo: Mini-Laboratorio de Robótica Espacial (Taller Jóvenes)
   descripcion: "Taller de robótica educativa, para jóvenes de 15 a 18 años, en el que, organizados por equipos, tendrán un tiempo límite para construir, desarrollar y programar un robot explorador basado en arduino cuya misión ficticia ​será la de buscar a un robot perdido en el planeta UMA. Experiencia interactiva, inmersiva, divertida y gamificada en la que lo importante es el aprendizaje​."
   foto: /festival/img/actividades/robotica_msa.png
@@ -24,21 +82,7 @@
   monitor: Isaias Zambrano / Bacterio Electronics y Chinowski Garachana / Medialab Invisible
   keywords: app, programación, desarrollo.
   link: https://goo.gl/forms/p9UNsNxKUoDjOWhA2
-  status: free
-
-- titulo: "Investigación Lúdica (Juegos de Mesa)"
-  descripcion: "Está claro que no es posible realizar una investigación importante en solitario; es necesario disponer de un equipo bien coordinado. El trabajo en equipo es fundamental, y para ayudar a los asistentes a desarrollarlo la asociación Lex Ludi Malacitana nos trae una serie de juegos de mesa cooperativos, en los que los participantes tendrán que ayudarse mutuamente para conseguir un objetivo común.  Turnos cada hora y media :)"
-  foto: /festival/img/actividades/juegos.jpg
-  hora_inicio: 11:00pm
-  hora_final: 20:00pm
-  lugar: Contenedor Cultural ---> Junto a los foodtrucks
-  categoria: Taller
-  monitor: Isaias Zambrano / Bacterio Electronics y Chinowski Garachana / Medialab Invisible
-  keywords: Juegos de Mesa, investigacón, diversión.
-  link: https://goo.gl/forms/laui3VGM2rsTvHPS2
-  status: free
-
-
+  status: full
 
 
 
@@ -143,7 +187,6 @@
   status: free
 
 
-
 - titulo: Taller Inteligencia Artíficial
   descripcion: "La inteligencia artíficial ya ha cambiado el mundo. Comprende como funciona una de sus variantes en este taller orientado a todos los públicos.
 
@@ -182,29 +225,6 @@
   link: https://goo.gl/forms/DFwCFPMfPLd96j4h1
   status: full
 
-- titulo: "Taller Teledetección: la exploración del siglo XXII"
-  descripcion: "La exploración de nuevos territorios antiguamente suponía largas travesías y aventuras difíciles. Hoy día, con todo el planeta cartografiado, el reto consiste en entender los procesos que tienen lugar en él, más allá del ojo humano. Nuevas plataformas y sensores están revolucionando el modo que tenemos de entender la Tierra. Taller a cargo de @alvarocmolino."
-  foto: /festival/img/actividades/teledeteccion.png
-  hora_inicio: 16:00pm
-  hora_final: 17:00pm
-  lugar: Contenedor Cultural ---> Jardín
-  categoria: Taller
-  monitor: "Alvaro Cortes (@alvarocmolino)"
-  keywords: teledetección, fisiología vegetal, cámara multiespectral.
-  link: https://goo.gl/forms/Rirdzxwg6QXkqebZ2
-  status: free
-
-- titulo: "Exposición de los talleres presentados en el concurso Impaciencia"
-  descripcion: "Equipos de estudiantes de toda Andalucía han estado trabajando de forma multidisciplinar para investigar en diversos temas desde biología a educación. Aquí podrás ver lo que han estado haciendo durante todos estos meses"
-  foto: /festival/img/actividades/impaciencia.png
-  hora_inicio: 11:00pm
-  hora_final: 13:00pm
-  lugar: Facultad de Ciencias ---> Lab I+D I (Bajo la Biblioteca)
-  categoria: Taller
-  monitor: Impaciencia
-  keywords: Impaciencia, concurso.
-  link: https://goo.gl/forms/pAz5hwouwSdJDfcS2
-  status: free
 
 - titulo: "Biología sintética o como convertir a tu gusano en un perro"
   descripcion: "Dar a conocer el campo de la Biología Sintética, sus fundamentos, aplicaciones y una toma de contacto con parte de las herramientas y técnicas que se usan en el protocolo estándar de Biobrick Assembly (iGEM)."
@@ -357,27 +377,7 @@
   status: full
 
 
-- titulo: Sigue el rastro
-  descripcion: "Acércate a la fauna ibérica de la forma más divertida, descubre los rastros de nuestros animales más emblemáticos, tus paseos por el campo no volverán a ser los mismos. Contenidos del taller
 
-  1. Introducción de algunas especies de fauna ibérica (zorro, lince, tejón, garduña, meloncillo, jabalí, pato, cabra) y sus rastros.
-  2. Juego de parejas para que los usuarios trabajen con esas relaciones.
-  3. Circuito con huellas impresas y réplicas de excrementos para que los usuarios deberán identificar insitu los rastros.
-  4. Conclusión sobre los rastros aprendidos.
-
-  Observaciones
-  Será necesaria ropa cómoda para poder moverse con libertad.
-
-  Turnos cada 40 min"
-  foto: /festival/img/actividades/sigue_el_rastro.png
-  hora_inicio: 11:00am
-  hora_final: 14:00am
-  lugar: Contenedor Cultural ---> Stand Impaciencia
-  categoria: Taller
-  keywords: biología, bichologos, animales.
-  monitor: Carmen Fernández (bióloga)
-  link: https://goo.gl/forms/Gjx2b0WEdapyqe5m1
-  status: free
 
 - titulo: "Create your own sharing economy app"
   descripcion: "Este proyecto se trata de una plantilla para crear sharing economy apps. Se trata de un concepto similar a las plantillas de WordPress para crear website, solo que en este caso se utiliza para crear mobile apps que desarrollen sharing economy apps tipo Uber, AirBnb, etc..
